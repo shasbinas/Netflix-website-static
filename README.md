@@ -27,14 +27,14 @@ Designed with a **responsive layout** and clean UI for practice in front-end dev
 
 # 🔗 Links
 
-1. GitHub Repository: [ Nefilx-website-static](https://github.com/Shasbinas/Netflix-clone.git)
+1. GitHub Repository: [ Nefilx-website-static](https://github.com/shasbinas/Netflix-website-static.git)
 ---
 ## 📂 Installation & Setup
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
-   cd netflix-clone
+   git clone https://github.com/shasbinas/Netflix-website-static.git
+   cd Netflix-website-static
 2. Open the folder in VS Code
 
 3. Install Live Server extension
@@ -45,7 +45,7 @@ Designed with a **responsive layout** and clean UI for practice in front-end dev
  
 **screenshot of website**
   
-   <img src="./assets/images/netflix clone.png"> 
+   <img src="./assets/images/Netflix website.png"> 
 ---
 
 ## ⭐ If you like this project, consider giving it a star on GitHub!
