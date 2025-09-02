@@ -1,40 +1,51 @@
-# Netflix-website-static
+# 🎬 Netflix Clone
 
-# 📺 Netflix Website Clone (Static)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)
 
-A simple and responsive **Netflix homepage clone** built using **HTML** and **CSS**. This project is for learning and practicing frontend web development skills. It mimics the look and feel of Netflix's landing page. 
-
----
-
-## 📸 Screenshots
-
-### 💻 Desktop View
-![Netflix Clone Desktop](/assets/images/Netflix%20website.png)
-
-### 📱 Mobile View
-![Netflix Clone Mobile](/assets/images/netflix(Samsung%20Galaxy%20S8+).png)
+A **Netflix Clone website** built with **HTML and CSS** that replicates the look and feel of Netflix’s homepage.  
+Designed with a **responsive layout** and clean UI for practice in front-end development.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Features
 
-- ✅ HTML5  
-- ✅ CSS3  
-- ❌ No JavaScript  
-- ✅ Responsive Design  
-- ✅ Clean UI
-
----
-
-## 🎯 Features
-
-- Netflix-style header with logo and buttons  
-- Hero section with background image  
-- Call-to-action elements  
-- Fully responsive layout  
-- Mobile-friendly design  
+- 🎨 **Netflix UI Clone** – Similar look and layout to Netflix  
+- 📱 **Responsive Design** – Works across desktop, tablet, and mobile  
+- 🔥 **Custom CSS Styling** – Styled components to replicate Netflix theme  
+- 📂 **Static Website** – Lightweight and fast-loading  
 
 ---
 
+## 🛠️ Technologies Used
 
+- **HTML5**  
+- **CSS3**  
 
+---
+
+# 🔗 Links
+
+1. GitHub Repository: [ Nefilx-website-static](https://github.com/Shasbinas/Netflix-clone.git)
+---
+## 📂 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/netflix-clone.git
+   cd netflix-clone
+2. Open the folder in VS Code
+
+3. Install Live Server extension
+
+4. Right-click index.html → Open with Live Server
+
+---
+ 
+**screenshot of website**
+  
+   <img src="./assets/images/netflix clone.png"> 
+---
+
+## ⭐ If you like this project, consider giving it a star on GitHub!
