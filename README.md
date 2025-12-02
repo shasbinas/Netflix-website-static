@@ -11,7 +11,7 @@ Designed with a **responsive layout** and clean UI for practice in front-end dev
 
 ## 🚀 Features
 
-- 🎨 **Netflix UI Clone** – Similar look and layout to Netflix  
+- 🎨 **Netflix UI Clone** – Similar look and layout to Netflix. 
 - 📱 **Responsive Design** – Works across desktop, tablet, and mobile  
 - 🔥 **Custom CSS Styling** – Styled components to replicate Netflix theme  
 - 📂 **Static Website** – Lightweight and fast-loading  
